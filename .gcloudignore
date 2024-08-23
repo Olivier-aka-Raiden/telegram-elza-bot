@@ -1,0 +1,13 @@
+.gitignore
+venv/
+voix_intro/
+tmp/
+assets/
+.idea
+.env
+.env.example
+LICENSE
+recorded_audio.wav
+start.bat
+speech.mp3
+README.md
